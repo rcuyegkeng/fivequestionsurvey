@@ -1,0 +1,15 @@
+<table class="surveyWrapper">
+	<tr>
+		<td>
+			<table width="100%" cellspacing="0">
+				<tr>
+					<td class="graph">
+						{PERCENTCOMPLETE}
+					</td>
+				</tr>
+				<tr>
+					<td  align="center">
+						{LANGUAGECHANGER}
+					</td>
+				</tr>
+			</table>
