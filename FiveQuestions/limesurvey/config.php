@@ -41,7 +41,7 @@ $dbprefix           =   'lime_';       // A global prefix that can be added to a
                                        // a database with other applications. Suggested prefix is 'lime_'
 
 // File Locations
-$rooturl            =   "http://{$_SERVER['HTTP_HOST']}/limesurvey"; // The root web url for your limesurvey installation (without a trailing slash).
+$rooturl            =   "http://{$_SERVER['HTTP_HOST']}/FiveQuestions/limesurvey"; // The root web url for your limesurvey installation (without a trailing slash).
 // The double quotes (") are important.
 
 $rootdir            =   dirname(__FILE__);  // This is the physical disk location for your limesurvey installation. Normally you don't have to touch this
